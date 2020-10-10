@@ -12,35 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 348501268,
+        "HashCode": 1284581302,
         "Kind": "Components.Component",
-        "Name": "TodoList.Pages.Todo",
+        "Name": "TodoList.App",
         "AssemblyName": "TodoList",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Todo"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Pages.Todo"
+          "Common.TypeName": "TodoList.App"
         }
       },
       {
-        "HashCode": -1425314833,
+        "HashCode": -1604431260,
         "Kind": "Components.Component",
-        "Name": "TodoList.Pages.Todo",
+        "Name": "TodoList.App",
         "AssemblyName": "TodoList",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoList.Pages.Todo"
+            "TagName": "TodoList.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Pages.Todo",
+          "Common.TypeName": "TodoList.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,35 +144,35 @@
         }
       },
       {
-        "HashCode": 1284581302,
+        "HashCode": 348501268,
         "Kind": "Components.Component",
-        "Name": "TodoList.App",
+        "Name": "TodoList.Pages.Todo",
         "AssemblyName": "TodoList",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.App"
+          "Common.TypeName": "TodoList.Pages.Todo"
         }
       },
       {
-        "HashCode": -1604431260,
+        "HashCode": -1425314833,
         "Kind": "Components.Component",
-        "Name": "TodoList.App",
+        "Name": "TodoList.Pages.Todo",
         "AssemblyName": "TodoList",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TodoList.App"
+            "TagName": "TodoList.Pages.Todo"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.App",
+          "Common.TypeName": "TodoList.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -273,39 +273,6 @@
         }
       },
       {
-        "HashCode": -1373506023,
-        "Kind": "Components.Component",
-        "Name": "TodoList.Shared.NavMenu",
-        "AssemblyName": "TodoList",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 319495479,
-        "Kind": "Components.Component",
-        "Name": "TodoList.Shared.NavMenu",
-        "AssemblyName": "TodoList",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoList.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -595709566,
         "Kind": "Components.Component",
         "Name": "TodoList.Shared.SurveyPrompt",
@@ -355,6 +322,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoList.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1373506023,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 319495479,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
